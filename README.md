@@ -1,2 +1,2 @@
-# titanic_survival_exploration
+# Titanic Survival Exploration
 In 1912, the ship RMS Titanic struck an iceberg on its maiden voyage and sank, resulting in the deaths of most of its passengers and crew. In this project, a subset of the RMS Titanic passenger manifest was explored to determine which features best predict whether someone survived or did not survive. Several conditional predictions was implemented by applying Python packages such as numpy and Pandas.
